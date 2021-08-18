@@ -70,3 +70,4 @@ void copyAndAssign() {
 	std::cout << "Total reveneu\t:" << medanSales.revenue << std::endl;
 	std::cout << "total unit \t: " << medanSales.unit_sold << std::endl;
 }
+//next line for access control
